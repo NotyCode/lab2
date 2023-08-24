@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="listaBeer">
+        <item>Beer1</item>
+        <item>Beer2</item>
+        <item>Beer3</item>
+        <item>Beer4</item>
+        <item>Beer5</item>
+    </string-array>
+
+</resources>
+
